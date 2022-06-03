@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ArfatMateen/IBM_Data_Analyst_Capstone_Project">
-    <img src="images/Data_Analyst_Capstone.png" alt="Logo" width="120" height="120">
+    <img src="images/Data_Analyst_Capstone.png" alt="Logo" width="256" height="256">
   </a>
 
 <h3 align="center">IBM Data Analyst Capstone Project</h3>
