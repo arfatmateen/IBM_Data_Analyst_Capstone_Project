@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ArfatMateen/REPO_NAME">
+  <a href="https://github.com/ArfatMateen/IBM_Data_Analyst_Capstone_Project">
     <img src="images/Data_Analyst_Capstone.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -20,7 +20,7 @@
     <br />
     <a href="https://dataplatform.cloud.ibm.com/dashboards/abf64179-88a5-40f3-a09a-745cab6f1d7e/view/0034ff1d34ea0ff368eccce4079c2f037f62265ae0bb8052828c7b495c342397a96c4195c8294c5bd2180565a7e9145dc1">View Dashboard</a>
     ·
-    <a href="https://github.com/ArfatMateen/REPO_NAME/FILE_NAME">Full Report</a>
+    <a href="https://github.com/ArfatMateen/IBM_Data_Analyst_Capstone_Project/blob/main/Capstone%20Project%20Report.pdf">Full Report</a>
   </p>
 </div>
 
@@ -92,7 +92,7 @@ The project is based on a Stack Overflow developer survey of the year 2019 which
   <li>Data Sources used for analysis:</li>
 
 -   [Stack overflow developer survey 2019](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/LargeData/m1_survey_data.csv)
--   [Job Posting Data using API](https://github.com/ArfatMateen/REPO_NAME/FILE_PATH)
+-   [Job Posting Data using API](https://github.com/ArfatMateen/IBM_Data_Analyst_Capstone_Project/blob/main/notebooks/1.1%20-%20Jobs_API.ipynb)
 -   [Popular Languages Data using Web Scraping](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DA0321EN-SkillsNetwork/labs/datasets/Programming_Languages.html)
 
   <li>Data Wrangling & Exploratory Data Analysis:</li>
