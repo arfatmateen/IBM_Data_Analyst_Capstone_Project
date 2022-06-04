@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ArfatMateen/IBM_Data_Analyst_Capstone_Project">
-    <img src="images/Data_Analyst_Capstone.png" alt="Logo" width="256" height="256">
+    <img src="images/Data_Analyst_Capstone.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">IBM Data Analyst Capstone Project</h3>
@@ -64,7 +64,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-# About The Project
+## About The Project
 
 The project is based on a Stack Overflow developer survey of the year 2019 which describes popular trends in technology all over the world and provides the findings and implications of the current and future trends in programming languages, databases, platform usage and web frameworks. The project also analyses the demographics of survey respondents based on gender, location, age and formal education level.
 
@@ -72,7 +72,7 @@ The project is based on a Stack Overflow developer survey of the year 2019 which
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Built With
+### Built With
 
 -   [Python](https://www.python.org/)
 -   [Jupyter Notebook](https://jupyter.org/)
@@ -84,9 +84,9 @@ The project is based on a Stack Overflow developer survey of the year 2019 which
 
 <!-- ANALYSIS PROCESS -->
 
-# Analysis Process
+## Analysis Process
 
-## Methodology
+### Methodology
 
 <ul>
   <li>Data Sources used for analysis:</li>
@@ -108,7 +108,7 @@ The project is based on a Stack Overflow developer survey of the year 2019 which
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Survey Dataset Exploration
+### Survey Dataset Exploration
 
 The Stack Overflow survey dataset consists of `11,552` records and `85` columns, which contain both dimension & measure columns.
 
@@ -116,7 +116,7 @@ The Stack Overflow survey dataset consists of `11,552` records and `85` columns,
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Data Collection
+### Data Collection
 
 There are three different data sources which are used in this project.
 
@@ -134,7 +134,7 @@ There are three different data sources which are used in this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Data Wrangling
+### Data Wrangling
 
 <ul>
   <li>Identified duplicated values in the dataset.</li>
@@ -146,7 +146,7 @@ There are three different data sources which are used in this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Exploratory Data Analysis
+### Exploratory Data Analysis
 
 <ul>
   <li>Identified the distribution of data in the dataset.</li>
@@ -157,7 +157,7 @@ There are three different data sources which are used in this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Data Visualization
+### Data Visualization
 
 <ul>
   <li>Visualized the distribution of data.</li>
@@ -170,7 +170,7 @@ There are three different data sources which are used in this project.
 
 <!-- DASHBOARD -->
 
-# Dashboard
+## Dashboard
 
 ![Dashboard Current][dashboard-current]
 ![Dashboard Future][dashboard-future]
@@ -178,20 +178,20 @@ There are three different data sources which are used in this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-# Findings and Implications
+## Findings and Implications
 
-## Programming Language Trends
+### Programming Language Trends
 
 ![Programming Language Trends][language-trends]
 
-### Findings:
+#### Findings:
 
 <ul>
   <li>Java-script is the most in demand & will remain as the highest in demand programming language next year.</li>
   <li>HTML, SQL, Bash & Python are the most demanding languages after Java-Script for this year.</li>
 </ul>
 
-### Implications:
+#### Implications:
 
 <ul>
   <li>In the future, Python will gain more popularity.</li>
@@ -201,11 +201,11 @@ There are three different data sources which are used in this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Database Trends
+### Database Trends
 
 ![Database Trends][database-trends]
 
-### Findings:
+#### Findings:
 
 <ul>
   <li>This year, MySQL gained the highest popularity.</li>
@@ -213,7 +213,7 @@ There are three different data sources which are used in this project.
   <li>SQLite and MongoDB were also able to make it into the top 5 this year.</li>
 </ul>
 
-### Implications:
+#### Implications:
 
 <ul>
   <li>In the future, PostgreSQL & MongoDB will gain more popularity.</li>
@@ -223,9 +223,9 @@ There are three different data sources which are used in this project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Overall Trends
+### Overall Trends
 
-### Findings:
+#### Findings:
 
 <ul>
   <li>IT is an ever emerging field and requires new stacks of technology every year or so.</li>
@@ -234,7 +234,7 @@ There are three different data sources which are used in this project.
   <li>MySQL had the highest demand this year.</li>
 </ul>
 
-### Implications:
+#### Implications:
 
 <ul>
   <li>Web development tech stack will remain the highest in demand in future.</li>
@@ -245,7 +245,7 @@ There are three different data sources which are used in this project.
 
 <!-- CONCLUSION -->
 
-# Conclusion
+## Conclusion
 
 Every year new technologies emerge, and businesses adapt these technologies to stay relevant, and thus demand for these technologies changes over time. This year, Java-Script was one of the most demanding languages and will remain at the top next year. However, Type-Script will beat Bash in demand in the future. PostgreSQL will be the highest in demand next year.
 
