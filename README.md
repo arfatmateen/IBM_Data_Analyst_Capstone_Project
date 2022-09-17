@@ -27,7 +27,7 @@
 <br />
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary>Table of Contents</summary>
   <ol>
     <li>
@@ -264,7 +264,7 @@ Every year new technologies emerge, and businesses adapt these technologies to s
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/arfat-mateen
 [dataset-exploration]: images/Dataset_Exploration.png
 [dashboard-current]: images/1_Dashboard_Current.png
